@@ -18,7 +18,7 @@ Run the following command to launch the web interface:
 evoeuler
 ```
 
-![EvoEuler Web Interface](EvoEuler.png)
+![EvoEuler Web Interface](https://raw.githubusercontent.com/superchchan/evoeuler/main/EvoEuler.png)
 Compared to the API, the web interface additionally allows users to draw, redraw, round, smooth, or view custom simple closed shapes, which can then be used for diagram generation.
 
 ## API
